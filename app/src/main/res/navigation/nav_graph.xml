@@ -10,13 +10,11 @@
         android:name="com.eotrophy.goniknown.screens.StartFragment"
         android:label="Start"
         tools:layout="@layout/fragment_start" />
-
     <fragment
         android:id="@+id/helpFragment"
         android:name="com.eotrophy.goniknown.screens.HelpFragment"
         android:label="Help"
         tools:layout="@layout/fragment_help" />
-
     <fragment
         android:id="@+id/aboutFragment"
         android:name="com.eotrophy.goniknown.screens.AboutFragment"

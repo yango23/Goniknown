@@ -9,4 +9,5 @@
     <string name="start_bottom_title_rus">Справочник</string>
     <string name="map_bottom_title_rus">Карта</string>
     <string name="profile_bottom_title_rus">Профиль</string>
+    <string name="drawer_list">Справочник</string>
 </resources>
