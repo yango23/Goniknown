@@ -10,4 +10,14 @@
     <string name="map_bottom_title_rus">Карта</string>
     <string name="profile_bottom_title_rus">Профиль</string>
     <string name="drawer_list">Справочник</string>
+    <string name="about_fragment_text">About fragment text</string>
+    <string name="help_fragment_text">Help fragment text</string>
+    <string name="map_fragment_text">Map fragment text</string>
+    <string name="profile_fragment_text">Profile fragment text</string>
+    <string name="start_fragment_text">Start fragment text</string>
+    <string name="drawer_main_text">Основной справочник</string>
+    <string name="map_drawer_text">Карта</string>
+    <string name="profile_drawer_text">Ваш профиль</string>
+    <string name="help_drawer_text">Поддержка</string>
+    <string name="about_drawer_text">О программе</string>
 </resources>

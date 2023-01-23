@@ -7,12 +7,12 @@
                 <item
                     android:id="@+id/startFragment"
                     android:icon="@android:drawable/ic_menu_info_details"
-                    android:title="Основной справочник"/>
+                    android:title="@string/drawer_main_text"/>
 
                 <item
                     android:id="@+id/mapFragment"
-                    android:icon="@android:drawable/ic_menu_info_details"
-                    android:title="Карта"/>
+                    android:icon="@android:drawable/ic_dialog_map"
+                    android:title="@string/map_drawer_text"/>
 
             </group>
         </menu>
@@ -23,18 +23,18 @@
             <group android:checkableBehavior="single">
                 <item
                     android:id="@+id/profileFragment"
-                    android:icon="@android:drawable/ic_menu_info_details"
-                    android:title="Основной справочник"/>
+                    android:icon="@android:drawable/btn_star"
+                    android:title="@string/profile_drawer_text"/>
 
                 <item
                     android:id="@+id/helpFragment"
-                    android:icon="@android:drawable/ic_menu_info_details"
-                    android:title="Основной справочник"/>
+                    android:icon="@android:drawable/ic_menu_help"
+                    android:title="@string/help_drawer_text"/>
 
                 <item
                     android:id="@+id/aboutFragment"
-                    android:icon="@android:drawable/ic_menu_info_details"
-                    android:title="Основной справочник"/>
+                    android:icon="@android:drawable/ic_menu_agenda"
+                    android:title="@string/about_drawer_text"/>
             </group>
         </menu>
     </item>
